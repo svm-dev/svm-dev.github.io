@@ -1,0 +1,42 @@
+# Author
+suhanlee:
+    name: "이수한"
+    nickname: "kyle"
+    email: "suahn.lee@insertcoin.me"
+    position: "채용담당 / 개발자"
+    bio: "사용자에게 가치를 주는 서비스를 만들고 싶은 개발자"
+    github: "suhanlee"
+    facebook: "suhan.lee.k@gmail.com"
+    twitter: "suhanlee"
+    image: "https://avatars2.githubusercontent.com/u/2666166?v=3&u=e9222752a65412ab2b4a0459fcb2932ae7c7620c&s=140"
+
+authorname:
+    name: "이름"
+    nickname: "영문이름"
+    email: "이메일주소"
+    position: "채용담당 / 개발자"
+    bio: "간략한 자기소개"
+    github: "깃허브 아이디"
+    facebook: "페이스북 아이디"
+    twitter: "트위터 아이디"
+
+authorname2:
+    name: "이름"
+    nickname: "영문이름"
+    email: "이메일주소"
+    position: "채용담당 / 개발자"
+    bio: "간략한 자기소개"
+    github: "깃허브 아이디"
+    facebook: "페이스북 아이디"
+    twitter: "트위터 아이디"
+
+authorname3:
+    name: "이름"
+    nickname: "영문이름"
+    email: "이메일주소"
+    position: "채용담당 / 개발자"
+    bio: "간략한 자기소개"
+    github: "깃허브 아이디"
+    facebook: "페이스북 아이디"
+    twitter: "트위터 아이디"
+
