@@ -3,7 +3,7 @@ layout: post
 title:  "기술 블로그 오픈"
 date:   2016-05-16 09:00:00 +0900
 categories: normal
-author: "suhanlee"
+author: svm
 ---
 
 안녕하세요. 스타십벤딩머신 멤버들을 위한 `기술 블로그`를 오픈합니다

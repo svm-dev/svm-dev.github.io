@@ -1,14 +1,22 @@
-# Author
-suhanlee:
-    name: "이수한"
-    nickname: "kyle"
-    email: "suahn.lee@insertcoin.me"
-    position: "채용담당 / 개발자"
-    bio: "사용자에게 가치를 주는 서비스를 만들고 싶은 개발자"
-    github: "suhanlee"
-    facebook: "suhan.lee.k@gmail.com"
-    twitter: "suhanlee"
-    image: "https://avatars2.githubusercontent.com/u/2666166?v=3&u=e9222752a65412ab2b4a0459fcb2932ae7c7620c&s=140"
+svm:
+    name: "스타십벤딩머신"
+    nickname: "SVm"
+    email: "dev@insertcoin.me"
+    position: "개발팀"
+    bio: "인간의 창의성을 지원하는 모든 활동을 지향한다"
+    github: "svm-dev"
+    image: "https://avatars0.githubusercontent.com/u/15644018?v=4"
+    
+rinthel:
+    name: "권지용"
+    nickname: "rinthel"
+    email: "r@insertcoin.me"
+    position: "CTO"
+    bio: "손가락에 풍이 걸려버린 리듬게이머"
+    github: "rinthel"
+    facebook: "rinthel@gmail.com"
+    twitter: "rinthel"
+    image: "https://avatars3.githubusercontent.com/u/10972499?v=4"
 
 # Example
 
